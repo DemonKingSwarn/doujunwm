@@ -1,0 +1,9 @@
+[package]
+name = "doujunwm"
+author = "demonkingswarn"
+license = "GPL-3.0"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+wlroots = {version = "0.2", features = ["unstable", "static"]}
